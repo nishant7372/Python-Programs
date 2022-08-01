@@ -1,4 +1,4 @@
-#Prime nimber smaller than or equal to n using sieve of eratostheses
+#Prime number smaller than or equal to n using sieve of eratostheses
 
 def sieveOfEratosthenes(n):
     prime = [True for i in range(n+1)]
